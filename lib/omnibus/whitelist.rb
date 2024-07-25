@@ -173,6 +173,8 @@ MAC_WHITELIST_LIBS = [
   /libc\+\+\.1\.dylib/,
   /libzstd\.1\.dylib/,
   /libnghttp2\.14\.dylib/,
+  /libruby\.3\.1\.dylib/,
+  /libffi\.8\.dylib/,
   /Security/,
   /SystemConfiguration/,
 ].freeze
